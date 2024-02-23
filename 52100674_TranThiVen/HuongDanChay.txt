@@ -1,0 +1,7 @@
+Muốn chạy được thì bạn chỉ cần:
+Không cần load lại model
+B1: Vào file main
+B2: Dòng thứ 31 của file main bạn chỉ cần đổi thành đường dẫn hình ảnh của bạn
+
+Vì dung lượng của tập train quá lớn nên không thể upload lên được em sẽ để đường dẫn ở đây:
+https://drive.google.com/drive/folders/1MkVsKyHXBH8JUch2iMHJlHT0LyW1affs
